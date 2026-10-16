@@ -52,15 +52,6 @@ chainAPIs = {
         },
         "@ChihuahuaChain"
         ],
-    'osmosis': [
-        'https://osmosis-api.spacestake.tech/cosmos/gov/v1/proposals',
-        {
-            "ping": 'https://explorer.spacestake.tech/osmosis/gov',
-            "mintscan": 'https://www.mintscan.io/osmosis/proposals',
-            "keplr": 'https://wallet.keplr.app/chains/osmosis/proposals'
-        },
-        '@osmosiszone'
-        ],
     'cosmos': [
         'https://cosmos-api.spacestake.tech/cosmos/gov/v1/proposals',
         {
